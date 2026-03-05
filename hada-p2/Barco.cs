@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace hada_p2
 {
     class Barco
@@ -78,9 +79,5 @@ namespace hada_p2
             }
         }
     }
-<<<<<<< HEAD
-}
-}
-=======
 
->>>>>>> 23f109c (Barco añadido)
+
