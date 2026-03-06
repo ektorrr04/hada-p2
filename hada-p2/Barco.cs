@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace hada_p2
 {
-    class Barco
+    public class Barco
     {
   
             public Dictionary<Coordenada, string> CoordenadasBarco { get; private set; }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hada_p2
+namespace hada_p2
 {
     public class Tablero
     {
