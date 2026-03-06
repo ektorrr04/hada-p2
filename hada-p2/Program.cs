@@ -10,6 +10,8 @@ namespace hada_p2
     {
         static void Main(string[] args)
         {
+
+            Game game = new Game();
         }
     }
 }
